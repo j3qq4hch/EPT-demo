@@ -231,19 +231,7 @@
                 </option>
                 <option>
                     <name>CCDefines</name>
-                    <state>USE_FULL_LL_DRIVER</state>
-                    <state>HSE_VALUE=8000000</state>
-                    <state>HSE_STARTUP_TIMEOUT=100</state>
-                    <state>LSE_STARTUP_TIMEOUT=5000</state>
-                    <state>LSE_VALUE=32768</state>
-                    <state>HSI_VALUE=8000000</state>
-                    <state>LSI_VALUE=40000</state>
-                    <state>VDD_VALUE=3300</state>
-                    <state>PREFETCH_ENABLE=1</state>
-                    <state>INSTRUCTION_CACHE_ENABLE=0</state>
-                    <state>DATA_CACHE_ENABLE=0</state>
-                    <state>STM32F030x8</state>
-                    <state>EPT_TICK_FREQ_HZ=1000</state>
+                    <state></state>
                 </option>
                 <option>
                     <name>CCPreprocFile</name>
@@ -360,7 +348,7 @@
                 </option>
                 <option>
                     <name>PreInclude</name>
-                    <state></state>
+                    <state>C:\github\EPT-demo\defined_symbols.h</state>
                 </option>
                 <option>
                     <name>CCIncludePath2</name>
