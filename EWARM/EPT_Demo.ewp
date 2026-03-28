@@ -369,7 +369,7 @@
                     <state>$PROJ_DIR$/../Drivers/CMSIS/Device/ST/STM32F0xx/Include</state>
                     <state>$PROJ_DIR$/../Drivers/CMSIS/Include</state>
                     <state>$PROJ_DIR$/../API</state>
-                    <state>$PROJ_DIR$/../..</state>
+                    <state>$PROJ_DIR$/../EPT</state>
                     <state>$PROJ_DIR$/..</state>
                 </option>
                 <option>
@@ -1165,7 +1165,7 @@
     <group>
         <name>EPT</name>
         <file>
-            <name>$PROJ_DIR$\..\..\ept_scheduler.c</name>
+            <name>$PROJ_DIR$\..\EPT\ept_scheduler.c</name>
         </file>
     </group>
     <file>
