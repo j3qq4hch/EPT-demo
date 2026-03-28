@@ -9,7 +9,7 @@
 //#define CLI_MAX_ARGNUM     5
 //#define CLI_SERIAL_PTR     (&SERIAL1)
 ////........................................................////
-//#define PROFILER                     //Uncomment this if profiler needed
+#define PROFILER                     //Uncomment this if profiler needed
 #define LOW_POWER_MODE
 
 #ifdef LOW_POWER_MODE
