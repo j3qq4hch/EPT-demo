@@ -359,6 +359,7 @@
                     <state>$PROJ_DIR$/../API</state>
                     <state>$PROJ_DIR$/../EPT</state>
                     <state>$PROJ_DIR$/..</state>
+                    <state>$PROJ_DIR$/../Drivers/CMSIS/</state>
                 </option>
                 <option>
                     <name>CCStdIncCheck</name>
